@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IEBDappByKoby</string>
+    <string name="addfromint">הוסף מהאינטרנט</string>
+    <string name="addmanualy">הוסף ידני</string>
+    <string name="cancelint">ביטול</string>
+    <string name="cancelmanual">ביטול</string>
+    <string name="description">תיאור</string>
+    <string name="moviename">שם הסרט</string>
+    <string name="savemanual">שמור</string>
+    <string name="searchint">חפש</string>
+    <string name="showimage">הצג תמונה</string>
+    <string name="urlImage">קישור תמונה</string>
+    <string name="searchintET">חפש סרט</string>
+    <string name="exit">צא מהאפליקציה</string>
+    <string name="deleteAllMovies">מחק את כל הסרטים</string>
+    <string name="deleteSingleMovie">מחק</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IEBDappByKoby</string>
+    <string name="searchint">SEARCH</string>
+    <string name="cancelint">CANCEL</string>
+    <string name="addfromint">ADD FROM INTERNET</string>
+    <string name="addmanualy">ADD MANUALY</string>
+    <string name="cancelmanual">CANCEL</string>
+    <string name="savemanual">SAVE</string>
+    <string name="showimage">SHOW IMAGE</string>
+    <string name="moviename">Movie Name...</string>
+    <string name="description">Description...</string>
+    <string name="urlImage">URL IMAGE</string>
+    <string name="searchintET">SEARCH</string>
+    <string name="exit">EXIT</string>
+    <string name="deleteAllMovies">Delete All Movies</string>
+    <string name="deleteSingleMovie">Delete</string>
+
+</resources>
